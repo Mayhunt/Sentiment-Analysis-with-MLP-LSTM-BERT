@@ -1,5 +1,6 @@
 # Sentiment-Analysis-with-MLP-LSTM-BERT  [:+1: VS :-1:]
-:page_with_curl: IMDB Dataset of 50K Movie Reviews from https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+:page_with_curl: IMDB Dataset of Movie Reviews from : https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews </br>
+:page_with_curl: My Coding : https://colab.research.google.com/drive/1Hm4zCt6TelenfNEUiiqnSc2m3kv40vmA?usp=sharing
 
 ![ภาพหน้าจอ (27)](https://user-images.githubusercontent.com/99718534/188877958-a8c7afc8-1fee-4e5f-8c00-7f2f771e252f.png)
 
